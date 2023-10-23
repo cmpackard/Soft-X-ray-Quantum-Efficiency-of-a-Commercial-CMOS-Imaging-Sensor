@@ -2,11 +2,9 @@
 Using the Advanced Photon Source at Argonne National Laboratory, we measure the soft X-ray quantum efficiency of a commercially available backside-illuminated CMOS sensor
 
 
-Unzip NumFrameCountDict.7z to get NumFrameCountDict.pkl
+Unzip NumFrameCountDict.7z to get NumFrameCountDict.pkl (It was too large to upload uncompressed)
 
 Unzip AlignMosaicGD4withPrintedOutputs.7z to get AlignMosaicGD4withPrintedOutputs.pdf, which is a .pdf of AlignMosaicGD4.ipynb with the outputs still displayed. AlignMosaicGD4.ipynb was too large to upload with all the outputs still displayed.
-
-Unzip the contents of OldHotsArrays.7z to a folder titled OldHotsArrays
 
 Running the following Jupyter notebooks in the order listed will reproduce our data analysis for this paper.
 
@@ -35,7 +33,7 @@ Running the following Jupyter notebooks in the order listed will reproduce our d
 
 6.)  AlignMosaicGD4.ipynb
 
-	Finds the finalized mosaic alignment
+	Finds the finalized mosaic alignment. This notebook was too large to upload with all the outputs and figures still drawn. Open AlignMosaicGD4html.html to view the version with all outputs and figures still drawn. 
 
 7.)  MosaicFluxAndError2.ipynb
 
