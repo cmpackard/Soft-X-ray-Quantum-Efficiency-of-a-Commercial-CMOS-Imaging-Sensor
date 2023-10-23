@@ -1,0 +1,25 @@
+Data Set: (0,2) Second Order 981.0 eV Beam Images
+Time Start: 2022-12-01T13:39:56.000 (UTC)
+Time Stop: 2022-12-01T13:55:06.000 (UTC)
+Elapsed Time: 15 min 10.0 sec
+Exposure Time: 999.991 ms
+Number of Frames: 298
+Min Sensor Temperature: 30.13
+Max Sensor Temperature: 30.2
+Median Sensor Temperature: 30.13
+Mean Sensor Temperature: 30.13
+Standard Deviation of Sensor Temperature: 0.0
+
+
+Data Set: (0,2) Second Order 981.0 eV Closed Shutter Dark Frames
+Time Start: 2022-12-01T13:57:45.000 (UTC)
+Time Stop: 2022-12-01T13:59:57.000 (UTC)
+Elapsed Time: 2 min 12.0 sec
+Exposure Time: 999.991 ms
+Number of Frames: 44
+Min Sensor Temperature: 30.13
+Max Sensor Temperature: 30.2
+Median Sensor Temperature: 30.13
+Mean Sensor Temperature: 30.14
+Standard Deviation of Sensor Temperature: 0.02
+​
