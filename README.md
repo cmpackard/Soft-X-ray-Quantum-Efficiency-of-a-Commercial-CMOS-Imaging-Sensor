@@ -4,8 +4,6 @@ Using the Advanced Photon Source at Argonne National Laboratory, we measure the 
 
 Unzip NumFrameCountDict.7z to get NumFrameCountDict.pkl (It was too large to upload uncompressed)
 
-Unzip AlignMosaicGD4withPrintedOutputs.7z to get AlignMosaicGD4withPrintedOutputs.pdf, which is a .pdf of AlignMosaicGD4.ipynb with the outputs still displayed. AlignMosaicGD4.ipynb was too large to upload with all the outputs still displayed.
-
 Running the following Jupyter notebooks in the order listed will reproduce our data analysis for this paper.
 
 1.)  FindSteadyStateFrames1.ipynb
