@@ -1,0 +1,25 @@
+Data Set: (0,-1) Steady State Beam Images
+Time Start: 2022-12-01T03:35:59.000 (UTC)
+Time Stop: 2022-12-01T03:47:17.000 (UTC)
+Elapsed Time: 11 min 18.0 sec
+Exposure Time: 999.991 ms
+Number of Frames: 221
+Min Sensor Temperature: 30.47
+Max Sensor Temperature: 30.53
+Median Sensor Temperature: 30.47
+Mean Sensor Temperature: 30.48
+Standard Deviation of Sensor Temperature: 0.03
+
+
+Data Set: (0,-1) Steady State Closed Shutter Dark Frames
+Time Start: 2022-12-01T03:47:39.000 (UTC)
+Time Stop: 2022-12-01T03:49:27.000 (UTC)
+Elapsed Time: 1 min 48.0 sec
+Exposure Time: 999.991 ms
+Number of Frames: 36
+Min Sensor Temperature: 30.53
+Max Sensor Temperature: 30.53
+Median Sensor Temperature: 30.53
+Mean Sensor Temperature: 30.53
+Standard Deviation of Sensor Temperature: 0.0
+​
