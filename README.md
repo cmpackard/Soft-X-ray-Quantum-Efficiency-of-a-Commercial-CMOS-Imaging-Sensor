@@ -31,7 +31,9 @@ Running the following Jupyter notebooks in the order listed will reproduce our d
 
 6.)  AlignMosaicGD4.ipynb
 
-	Finds the finalized mosaic alignment. This notebook was too large to upload with all the outputs and figures still drawn. Open AlignMosaicGD4html.html to view the version with all outputs and figures still drawn. 
+	Finds the finalized mosaic alignment. This notebook was too large to upload with all the outputs 
+ 	and figures still drawn. Open AlignMosaicGD4html.html to view the version with all outputs and 
+  	figures still drawn. 
 
 7.)  MosaicFluxAndError2.ipynb
 
