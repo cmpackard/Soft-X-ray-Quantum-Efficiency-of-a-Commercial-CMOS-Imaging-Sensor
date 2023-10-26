@@ -49,7 +49,7 @@ Running the following Jupyter notebooks in the order listed will reproduce our d
 	Calculates responsivity of AXUV100 photodiode (UPD) and uncertainty 
 	using information from NIST Paper
 
-10.) PhotonFlux_QE_And_Uncertainty1.ipynb
+10.) PhotonFlux_QE_And_Uncertainty1_1.ipynb
 
 	Determines final photon flux and uncertainty, then calculates final QE 
 	and uncertainty
