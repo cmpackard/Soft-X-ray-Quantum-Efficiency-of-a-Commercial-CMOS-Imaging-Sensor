@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Soft-X-ray-Quantum-Efficiency-of-a-Commercial-CMOS-Imaging-Sensor
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Colin M.
+    family-names: Packard
+    email: colin-packard@uiowa.edu
+    affiliation: University of Iowa
+    orcid: 'https://orcid.org/0000-0002-9566-7558'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/cmpackard/Soft-X-ray-Quantum-Efficiency-of-a-Commercial-CMOS-Imaging-Sensor/releases/tag/v1.0.0
+    description: >-
+      URL of the raw data and version 1.0.0 of the code used
+      to generate the results and figures in the paper.
+repository-code: >-
+  https://github.com/cmpackard/Soft-X-ray-Quantum-Efficiency-of-a-Commercial-CMOS-Imaging-Sensor
+abstract: >-
+  Using the Advanced Photon Source at Argonne National
+  Laboratory, we measure the soft X-ray quantum efficiency
+  of a commercially available backside-illuminated CMOS
+  sensor.
