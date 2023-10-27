@@ -3,7 +3,8 @@
 
 cff-version: 1.2.0
 title: >-
-  Soft-X-ray-Quantum-Efficiency-of-a-Commercial-CMOS-Imaging-Sensor
+  Code and Data for Soft X-ray Quantum Efficiency of a
+  Commercial CMOS Imaging Sensor
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
